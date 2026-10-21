@@ -34,3 +34,22 @@ A CLI-based Point of Sale (POS) and inventory management application built in C 
    ```bash
    git clone [https://github.com/](https://github.com/)<your-username>/restaurant-billing-management-system.git
    cd restaurant-billing-management-system
+
+## Demo / Screenshots
+
+### Customer Order & Billing
+![Customer Order](output1.png)
+
+### Bill Calculation
+![Bill Calculation](output2.png)
+
+### Admin Menu Management
+![Admin Section](output3.png)
+
+(output4.png)
+
+(output5.png)
+
+(output6.png)
+
+(output7.png)
