@@ -45,11 +45,7 @@ A CLI-based Point of Sale (POS) and inventory management application built in C 
 
 ### Admin Menu Management
 ![Admin Section](output3.png)
-
-(output4.png)
-
-(output5.png)
-
-(output6.png)
-
-(output7.png)
+![Admin Section](output4.png)
+![Admin Section](output5.png)
+![Admin Section](output6.png)
+![Admin Section](output7.png)
